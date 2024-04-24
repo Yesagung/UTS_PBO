@@ -1,4 +1,3 @@
-uts
 # **Requirement analysis**
 ### **Functionality**
 - **Capability**: The system must be able to be used by each different role such as Students (can see grades, see learning, see schedules, report system problems, access the library), Professor (upload grades, upload student attendance, update schedules), Admin (Inform bills) , Superadmin (System maintenance, providing technical support).
@@ -61,7 +60,7 @@ uts
 - menyediakan dukungan teknis
 
 
-![UTS PBO](https://hackmd.io/_uploads/H1v4_QLbA.jpg)
+![UTSPBO](https://github.com/Yesagung/UTS_PBO/assets/151461069/1c244cc3-8f19-4603-b4b9-aceba8f39222)
 
 
 
